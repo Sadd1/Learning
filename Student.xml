@@ -1,0 +1,20 @@
+<Students>
+  <student>
+  <SL_NO> 23 </SL_NO>
+  <name>john Carter</name>
+  <admission_date> </admission_date>
+  </student>
+
+  <student>
+  <SL_NO>29 </SL_NO>
+  <name> BOB MARSHEL </name>
+  <admission_date> </admission_date>
+  </student>
+
+  <student>
+  <SL_NO> 35 </SL_NO>
+  <name>Clark kent <name>
+  <admission_date>  </admission_date>
+  </student>
+
+  </Students>
